@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alevol22
-- I’m interested in computational bio, web dev, enterpreneurship, and too many other things...
+- I’m interested in computational bio, web dev, entrepreneurship, and too many other things...
 - I’m currently learning all of the above!
 - 📫 Reach me at alevol26@mit.edu or Discord sashimi#4878
 
